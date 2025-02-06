@@ -1,0 +1,9 @@
+numpy
+matplotlib
+scipy
+seaborn
+setuptools
+qtpy
+PyQt5
+brpylib
+joblib
